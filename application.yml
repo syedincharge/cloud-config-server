@@ -7,7 +7,7 @@ eureka:
   instance:
     hostname: localhost
     
-micriservice:
+microservice:
   payment-service:
     endpoints:
       uri: http://PAYMENT-SERVICE/payment/doPayment
